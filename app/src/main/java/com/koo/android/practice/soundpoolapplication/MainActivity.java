@@ -2,14 +2,11 @@ package com.koo.android.practice.soundpoolapplication;
 
 import android.media.AudioManager;
 import android.media.SoundPool;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 
 public class MainActivity extends AppCompatActivity {
 
